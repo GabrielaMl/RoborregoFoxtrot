@@ -56,7 +56,6 @@ void setup(void) {
   pinMode(BackMotorRightS2,OUTPUT);
   pinMode(RodilloS1, OUTPUT);
   pinMode(RodilloS2, OUTPUT);
-
     delay(8000);
   
   }
